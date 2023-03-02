@@ -66,35 +66,35 @@ public class MainActivity extends AppCompatActivity {
         ob6.setImgname(R.drawable.royalenfield1);
         holder.add(ob6);
 
-        Model ob7=new Model();
-        ob7.setHeader("Magento Framework");
-        ob7.setDesc("PHP Based e-Comm Framework");
-        ob7.setImgname(R.drawable.tv3);
-        holder.add(ob7);
-
-        Model ob8=new Model();
-        ob8.setHeader("Shopify Framework");
-        ob8.setDesc("PHP based e-Comm Framework");
-        ob8.setImgname(R.drawable.bajaj1);
-        holder.add(ob8);
-
-        Model ob9=new Model();
-        ob9.setHeader("Angular Programming");
-        ob9.setDesc("Web Programming");
-        ob9.setImgname(R.drawable.ktm1);
-        holder.add(ob9);
-
-        Model ob10=new Model();
-        ob10.setHeader("Python Programming");
-        ob10.setDesc("Desktop/Web based Progamming");
-        ob10.setImgname(R.drawable.royalenfield1);
-        holder.add(ob10);
-
-        Model ob11=new Model();
-        ob11.setHeader("Node JS Programming");
-        ob11.setDesc("Web based Programming");
-        ob11.setImgname(R.drawable.suzuki1);
-        holder.add(ob11);
+//        Model ob7=new Model();
+//        ob7.setHeader("Magento Framework");
+//        ob7.setDesc("PHP Based e-Comm Framework");
+//        ob7.setImgname(R.drawable.tv3);
+//        holder.add(ob7);
+//
+//        Model ob8=new Model();
+//        ob8.setHeader("Shopify Framework");
+//        ob8.setDesc("PHP based e-Comm Framework");
+//        ob8.setImgname(R.drawable.bajaj1);
+//        holder.add(ob8);
+//
+//        Model ob9=new Model();
+//        ob9.setHeader("Angular Programming");
+//        ob9.setDesc("Web Programming");
+//        ob9.setImgname(R.drawable.ktm1);
+//        holder.add(ob9);
+//
+//        Model ob10=new Model();
+//        ob10.setHeader("Python Programming");
+//        ob10.setDesc("Desktop/Web based Progamming");
+//        ob10.setImgname(R.drawable.royalenfield1);
+//        holder.add(ob10);
+//
+//        Model ob11=new Model();
+//        ob11.setHeader("Node JS Programming");
+//        ob11.setDesc("Web based Programming");
+//        ob11.setImgname(R.drawable.suzuki1);
+//        holder.add(ob11);
 
 
         return holder;
